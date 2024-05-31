@@ -22,6 +22,8 @@ bool isPossible(int arr[], int n, int m, int mid){
 }
 
 int allocateBooks(int arr[], int n, int m){
+    if( m > n)  return -1;
+
     int start = 0;
     int sum = 0;
     for(int i=0; i<n; i++){
