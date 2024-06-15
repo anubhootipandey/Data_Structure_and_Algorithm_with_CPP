@@ -1,13 +1,10 @@
-//{ Driver Code Starts
+
 #include <bits/stdc++.h>
 using namespace std;
-
-// } Driver Code Ends
 
 class Solution{
   public:
     int minDist(int a[], int n, int x, int y) {
-        // code here
         int lastX = -1, lastY = -1;
         int minDistance = INT_MAX;
         
@@ -31,7 +28,6 @@ class Solution{
     }
 };
 
-//{ Driver Code Starts.
 int main() {
     int t;
     cin >> t;
@@ -47,5 +43,3 @@ int main() {
     }
     return 0;
 }
-
-// } Driver Code Ends
