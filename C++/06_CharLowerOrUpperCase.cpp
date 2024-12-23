@@ -18,5 +18,6 @@ int main(){
     } else{
         cout<< "Character is Lowercase.";
     }
+    
     return 0;
 }
