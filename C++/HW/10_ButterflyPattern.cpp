@@ -43,5 +43,4 @@ int main(){
     }
 
 
-    //Bottom Pattern
 }
