@@ -1,4 +1,0 @@
---------------Todo List---------->
-
-1.Solve atleast one array question daily.
-2.Learn new data structure concept
