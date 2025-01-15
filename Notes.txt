@@ -1,0 +1,9 @@
+---------------------------NOTES--------------------------->
+
+1.Arrays
+2.Linked list
+3.Problem solving
+4.Data structures
+5.Time complexities
+6.Vector
+7.STL
