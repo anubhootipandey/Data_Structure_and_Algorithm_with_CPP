@@ -4,6 +4,7 @@
 2.Linked list
 3.Problem solving
 4.Data structures
-5.Time complexities
+5.Time and space complexities
 6.Vector
-7.STL
+7.STL in C++
+8.Pattern Problem
