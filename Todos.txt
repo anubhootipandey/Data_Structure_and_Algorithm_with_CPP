@@ -1,4 +1,0 @@
----------------------------------Todo-------------------->
-
-1.Solve dsa problems ---- array, linked list
-2.Learn new concept of data structures and algorithm
