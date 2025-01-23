@@ -1,1 +1,3 @@
 notes of cpp----->
+
+1.arrays
