@@ -2,4 +2,3 @@
 
 1.Array
 2.Problem Solving
-3.C++ Basics
