@@ -1,4 +1,0 @@
----------todo---
-
-1.Solve array problems
-2. learn about time and space complexities
