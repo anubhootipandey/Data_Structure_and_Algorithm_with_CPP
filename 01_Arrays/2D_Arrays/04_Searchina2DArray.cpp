@@ -10,7 +10,7 @@ bool searchInRow(vector<vector<int>>& matrix, int target, int row){
         int mid = st + (end - st)/2;
         if(target == matrix[row][mid]){
             return true;
-        } else if(target >= matrix[row][mid]){
+        } else if(target > matrix[row][mid]){
             st = mid + 1;
         } else{
             end = mid - 1;
